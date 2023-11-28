@@ -44,7 +44,12 @@
 
 5. Press the play button near the top of your window
 
+6. Open the (date_results folder)[date_results] to find a custom-generated PDF with all the details of your perfect date. Enjoy 😏
+
 ### Using Visual Studio Code
 
 1. Open the [everything_inator.ipynb](everything_inator.ipynb) file
+
 2. Press the 'Run All' button near the top of your window
+
+3. Open the (date_results folder)[date_results] to find a custom-generated PDF with all the details of your perfect date. Enjoy 😏
