@@ -1,4 +1,5 @@
 spotipy_keys.json
 venv
 .venv
+.cache-*
 .ipynb_checkpoints
