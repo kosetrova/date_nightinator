@@ -1,4 +1,4 @@
-# 🌹 Generate your perfect date 👄.
+# 🌹 Generate your perfect date 👄
 
 ## Setup
 
