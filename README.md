@@ -20,7 +20,7 @@
    .venv/bin/activate
    ```
 
-2. Then install the dependencies given in the requirements file
+2. Then install the dependencies given in the [requirements file](requirements.txt)
 
    ```
    pip install -r requirements.txt
@@ -40,11 +40,11 @@
    jupyter notebook
    ```
 
-4. Once your Jupyter Notebook has opened up, open the everything_inator.ipynb file
+4. Once your Jupyter Notebook has opened up, open the [everything_inator.ipynb](everything_inator.ipynb) file
 
 5. Press the play button near the top of your window
 
 ### Using Visual Studio Code
 
-1. Open the everything_inator.ipynb file
+1. Open the [everything_inator.ipynb](everything_inator.ipynb) file
 2. Press the 'Run All' button near the top of your window
